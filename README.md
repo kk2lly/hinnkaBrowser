@@ -1,4 +1,4 @@
-# Most fun portable private browser with theme, modded settings, private search engine (Brave Search)
+# Most fun portable private browser with theme, modded settings, [private search engine](https://search.brave.com)
 
 # The Extension Are Using Is uBlock Origin, So Users Needs Browser Without Ads And Trackers like [Brave Browser](https://brave.com)!
 
