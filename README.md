@@ -8,4 +8,6 @@
 
 # It's Useful For Normal Use!
 
+# The Data Deleted By Itself When Closing hinnkaBrowser!
+
 [Get Latest Version Now!](https://github.com/kk2lly/hinnkaBrowser/releases/latest)
